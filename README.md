@@ -2,11 +2,11 @@
 
 
 # TUGAS Pemrograman Berorientasi Objek Pertemuan ke-13 (Praktikum 9)
-
+#
 Nama : Dwi Agus Haryanto
 NIM : 312110033
 Kelas : TI.21.C2
-
+#
 
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
@@ -59,7 +59,7 @@ Disini saya akan menunjukkan tutorial membuat Aplikasi Desktop dengan Java
     JOptionPane.showMessageDialog(myFrame, "Hallo " + name + ", umur anda " + age + "   tahun.");
 #
 * Save file
-* Buka # cmd # (Command Prompt)
+* Buka  cmd  (Command Prompt)
 * Pergi menuju folder yang sudah dibuat dengan menggunakan cd ...
 * Lalu eksekusi dengan mengetik javac lalu file yang akan dikompile yaitu Utama.java
 * Jika berhasil dan tidak ada error, ketik
