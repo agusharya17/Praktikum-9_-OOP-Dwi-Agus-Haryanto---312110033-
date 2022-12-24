@@ -21,11 +21,11 @@ import javax.swing.*;
 
 3. Lalu tulis kode java seperti berikut
 
-{public class Utama {
+public class Utama {
     public static void main(String[] args) {
     }
 }
-}
+
 
 4. Didalam main() buat variable dengan nama bebas dengan class JFrame
 5. Lalu tambahkan kode sebagai berikut
