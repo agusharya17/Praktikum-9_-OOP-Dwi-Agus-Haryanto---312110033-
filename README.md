@@ -59,7 +59,7 @@ Disini saya akan menunjukkan tutorial membuat Aplikasi Desktop dengan Java
     JOptionPane.showMessageDialog(myFrame, "Hallo " + name + ", umur anda " + age + "   tahun.");
 #
 * Save file
-* Buka cmd (Command Prompt)
+* Buka #cmd (Command Prompt)
 * Pergi menuju folder yang sudah dibuat dengan menggunakan cd ...
 * Lalu eksekusi dengan mengetik javac lalu file yang akan dikompile yaitu Utama.java
 * Jika berhasil dan tidak ada error, ketik
@@ -67,3 +67,9 @@ Disini saya akan menunjukkan tutorial membuat Aplikasi Desktop dengan Java
     java Utama
 #
 * Tampilan nya akan seperti ini
+![image](https://user-images.githubusercontent.com/31887335/209434076-194202af-dcbc-4b1f-8f28-4592921841eb.png)
+![image](https://user-images.githubusercontent.com/31887335/209434108-c26531e6-93ce-4be9-a054-a10df3a59fa3.png)
+![image](https://user-images.githubusercontent.com/31887335/209434128-730383e4-bc3c-40ce-8978-fc0737fe6056.png)
+![image](https://user-images.githubusercontent.com/31887335/209434151-af021366-a25d-4785-9ebf-d060e1a55ef7.png)
+
+
