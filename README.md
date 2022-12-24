@@ -61,7 +61,7 @@ Disini saya akan menunjukkan tutorial membuat Aplikasi Desktop dengan Java
 * Save file
 * Buka cmd (Command Prompt)
 * Pergi menuju folder yang sudah dibuat dengan menggunakan cd ...
-* Lalu eksekusi dengan mengetik #javac# lalu file yang akan dikompile yaitu Utama.java
+* Lalu eksekusi dengan mengetik #javac lalu file yang akan dikompile yaitu Utama.java
 * Jika berhasil dan tidak ada error, ketik
 #
     java Utama
