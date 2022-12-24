@@ -17,46 +17,46 @@ A. Buat File dan Kode Java
 1. Buat file dengan nama bebas seperti (Utama) dengan ekstensi file (.java)
 2. Sebelum menulis method main, tulis kode java seperti berikut. Agar java bisa berjalan dengan benar
 
-import javax.swing.*;
+    import javax.swing.*;
 
 3. Lalu tulis kode java seperti berikut
 
-public class Utama {
-    public static void main(String[] args) {
+    public class Utama {
+        public static void main(String[] args) {
     
+        }
+
     }
-    
-}
 
 4. Didalam main() buat variable dengan nama bebas dengan class JFrame
 5. Lalu tambahkan kode sebagai berikut
 
-JFrame myFrame;
+    JFrame myFrame;
 
-myFrame = new JFrame();
-myFrame.setSize(500,400);
-myFrame.setVisible(true);
+    myFrame = new JFrame();
+    myFrame.setSize(500,400);
+    myFrame.setVisible(true);
 
 6. Buat pesan yang muncul di layar dengan tulisan bebas
 
-JOptionPane.showMessageDialog(myFrame. "Saya suka Java");
+    JOptionPane.showMessageDialog(myFrame. "Saya suka Java");
 
 7. Buat Variabel nama bebas dengan input teks yang muncul di layar dengan tulisan bertanyakan nama anda
 
-String name = JOptionPane.showInputDialog(myFrame, "Nama anda siapa: ");
+    String name = JOptionPane.showInputDialog(myFrame, "Nama anda siapa: ");
 
 8. Buat variabel tahun nama bebas dengan teks yang muncul di layar dengan tulisan bertanyakan tahun lahir anda
 
-String yearStr = JOptionPane.showInputDialog(myFrame, "Tahun lahir: ");
+    String yearStr = JOptionPane.showInputDialog(myFrame, "Tahun lahir: ");
 
 9. Hitung umur anda dengan cara kurangi sekarang dengan tahun lahir anda
 
-int year = Integer.parseInt(yearStr);
-int age = 2022 - year;
+    int year = Integer.parseInt(yearStr);
+    int age = 2022 - year;
 
 10. Cetak hasil dengan menggunakan method yang sama
 
-JOptionPane.showMessageDialog(myFrame, "Hallo " + name + ", umur anda " + age + " tahun.");
+    JOptionPane.showMessageDialog(myFrame, "Hallo " + name + ", umur anda " + age + "   tahun.");
 
 11. Save file
 12. Buka cmd (Command Prompt)
@@ -64,7 +64,7 @@ JOptionPane.showMessageDialog(myFrame, "Hallo " + name + ", umur anda " + age + 
 14. Lalu eksekusi dengan mengetik javac lalu file yang akan dikompile yaitu Utama.java
 15. Jika berhasil dan tidak ada error, ketik
 
-java Utama
+    java Utama
 
 16. Tampilan nya akan seperti ini
 
