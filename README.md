@@ -3,9 +3,9 @@
 
 # TUGAS Pemrograman Berorientasi Objek Pertemuan ke-13 (Praktikum 9)
 
-#Nama : Dwi Agus Haryanto
-#NIM : 312110033
-#Kelas : TI.21.C2
+* Nama : Dwi Agus Haryanto
+* NIM : 312110033
+* Kelas : TI.21.C2
 
 
 ---------------------------------------------------------------------------------------------
